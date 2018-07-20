@@ -52,7 +52,7 @@ switch(selection) {
                 console.log("Movie Title: " + JSON.parse(body).Title +
                             "\nYear: " + JSON.parse(body).Year +
                             "\nRatings: " + JSON.parse(body).imdbRating +
-                            "\nRotten Tomatoes: " + JSON.parse(body).Ratings[1].Value +
+                            //"\nRotten Tomatoes: " + JSON.parse(body).Ratings[1].Value +
                             "\nCountry: " + JSON.parse(body).Country +
                             "\nLanguage: " + JSON.parse(body).Language +
                             "\nPlot: " + JSON.parse(body).Plot + 
