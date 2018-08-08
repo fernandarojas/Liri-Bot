@@ -9,6 +9,9 @@
 
 ### What each command does
 
+
+![alt text](https://github.com/fernandarojas/Liri-Bot/blob/master/render1533691758303.gif)
+
 1. node liri.js my-tweets
   * Displays my last 20 tweets and when they were created in terminal/bash window
 
